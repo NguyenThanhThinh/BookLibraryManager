@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BookLibraryManager.Entities")]
+[assembly: AssemblyTitle("BookLibraryManager.Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BookLibraryManager.Entities")]
+[assembly: AssemblyProduct("BookLibraryManager.Console")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cc5cd8dc-df83-48c7-9821-40f5405f9012")]
+[assembly: Guid("59a9ec40-5002-4b8c-acf6-7b3e583576cc")]
 
 // Version information for an assembly consists of the following four values:
 //
